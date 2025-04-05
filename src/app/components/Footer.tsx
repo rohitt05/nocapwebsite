@@ -12,7 +12,7 @@ Welcome to NoCap! By accessing or using the app, you agree to the following:
 
 1. **Eligibility**: You must be 13 years or older to use NoCap.
 2. **User Conduct**: You agree not to post harmful, hateful, or illegal content.
-3. **Your Data**: You own your data. We don’t sell it. Ever.
+3. **Your Data**: You own your data. We don’t sell it. Ever, Ever, Ever, Ever.
 4. **Usage**: We may suspend accounts violating our Community Rules or Terms.
 5. **Termination**: You can delete your account anytime. We also reserve the right to suspend service with or without notice.
 
