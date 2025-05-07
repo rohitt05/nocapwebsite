@@ -1,0 +1,44 @@
+@keyframes shimmer {
+    0% {
+      background-position: -1000px 0;
+    }
+    100% {
+      background-position: 1000px 0;
+    }
+  }
+  
+  .shimmer-bg {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.05),
+      rgba(255, 255, 255, 0.15),
+      rgba(255, 255, 255, 0.05)
+    );
+    background-size: 1000px 100%;
+    animation: shimmer 4s linear infinite;
+    filter: blur(4px);
+  }
+  
+  .led-text {
+    text-shadow:
+      0 0 5px white,
+      0 0 10px white,
+      0 0 20px white;
+    animation: glow-pulse 1.8s ease-in-out infinite alternate;
+  }
+  
+  @keyframes glow-pulse {
+    from {
+      text-shadow:
+        0 0 5px white,
+        0 0 10px white,
+        0 0 20px white;
+    }
+    to {
+      text-shadow:
+        0 0 10px white,
+        0 0 20px white,
+        0 0 40px white;
+    }
+  }
+  
