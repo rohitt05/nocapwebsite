@@ -4,7 +4,7 @@ import { Mail } from 'lucide-react';
 
 const Footer = () => {
     return (
-        <footer className="w-full bg-black text-white mt-20 py-10 px-6 flex flex-col md:flex-row items-center justify-between gap-8 rounded-t-[20%]">
+        <footer className="w-full bg-black text-white mt-20 py-10 px-6 flex flex-col md:flex-row items-center justify-between gap-8 rounded-t-[25%]">
             {/* Links */}
             <div className="flex flex-wrap gap-4 md:gap-6 text-sm md:text-base justify-center md:justify-start">
                 <Link href="/terms" className="hover:underline">Terms of Service</Link>
