@@ -21,7 +21,7 @@ export default function Home() {
             onClick={() => window.open('https://forms.gle/dfQzzzQBaf3E26367', '_blank')}
             className="text-white font-medium hover:text-black transition-colors px-6 py-2 rounded-[10px] border border-white hover:bg-white"
           >
-            Beta Users
+            Try the Beta
           </button>
         </div>
 

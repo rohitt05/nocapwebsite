@@ -18,7 +18,7 @@ const Waitlist = () => {
                 onClick={openForm}
                 className="bg-white text-black font-medium px-6 py-3 rounded-lg hover:bg-gray-200 transition-all"
             >
-                Join the Waitlist
+                Try the Beta
             </button>
         </div>
     );
