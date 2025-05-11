@@ -59,10 +59,11 @@ export default function Privacy() {
                 </ul>
                 <h3>How to Delete Your Data?</h3>
                 <p>
-                    If you'd like to permanently delete your account and all associated data, we’ve made the process simple.
+                    If you&rsquo;d like to permanently delete your account and all associated data, we&rsquo;ve made the process simple.
                     To learn more about how your data is handled and how to remove it completely,
                     <Link href="/deleteAccount" className="text-blue-600 hover:underline">click here</Link>.
                 </p>
+
 
                 <h2>4. Legal Basis for Processing</h2>
                 <p>

@@ -22,8 +22,10 @@ export default function DeleteAccountInstructions() {
             </ol>
 
             <p className="text-gray-400">
-                Once deleted, your account data including responses, memories, and personal info will be permanently removed from our servers. This includes any media or text you've shared within the app.
+                Once deleted, your account data including responses, memories, and personal info will be permanently removed from our servers.
+                This includes any media or text you&rsquo;ve shared within the app.
             </p>
+
 
             <p className="text-sm text-gray-500 mt-4">
                 If you have any issues deleting your account, please contact us at <a href="mailto:nocaaappppp@gmail.com" className="text-blue-500 underline">nocaaappppp@gmail.com</a>.
